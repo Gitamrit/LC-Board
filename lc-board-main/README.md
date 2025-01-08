@@ -14,9 +14,6 @@
 
 A single web app that addresses all these problems.
 
-## Getting Started
-
-Open [https://lc-board-ochre.vercel.app/](https://lc-board-ochre.vercel.app/) to see the result.
 
 ### Main Feature
 
