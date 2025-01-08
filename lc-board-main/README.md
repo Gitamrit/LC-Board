@@ -37,9 +37,7 @@ store your logic notes. View the full list of problems solved under the archive 
 
 **Database**: Google's Firebase (cloud) , Browser storage (local) .
 
-## Glimpses
 
-https://github.com/IamMahfooz/lc-board/assets/92675550/33528593-81d3-4e74-a20a-a7def71c5715
 
 ## Contributions
 
@@ -54,8 +52,4 @@ Contributions are welcomed! Feel free to fork the repository and make a pull req
 5. Push to the branch (`git push origin feature-branch`).
 6. Open a pull request.
 
-## Join Us
 
-Join our community and help make LC-Board even better! Your contributions and feedback are highly appreciated.
-
->>>>>>> 7ba1857 (Initial commit)
